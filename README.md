@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lawrence137
-- 👀 I’m interested in any JavaScript content
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on any JavaScript projects
+- 👋 Hi, I’m Lawrence Kimani
+- 👀 I’m interested in any JavaScript, Rails content
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on any JavaScript or Ruby on Rails projects
 - 📫 How to reach me: lawrencekimani18@gmail.com
 
 <!---
