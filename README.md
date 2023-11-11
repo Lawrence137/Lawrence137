@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lawrence Kimani
 - 👀 I’m interested in any Kotlin content
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android and AI Fine Tuning
 - 💞️ I’m looking to collaborate on any JavaScript or Ruby on Rails projects
 - 📫 How to reach me: lawrencekimani18@gmail.com
 
