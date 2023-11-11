@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lawrence Kimani
-- 👀 I’m interested in any JavaScript, Rails content
+- 👀 I’m interested in any Kotlin content
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on any JavaScript or Ruby on Rails projects
 - 📫 How to reach me: lawrencekimani18@gmail.com
